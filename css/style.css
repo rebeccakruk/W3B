@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: darkgrey;
+    font-size: 15px;
+}
+
+#Paul {
+    border: 10pt solid rgb(61, 48, 235);
+}
+
+#John {
+    border: 10px dashed rgb(58, 230, 52);
+}
+
+#Ringo {
+    border: 10pc dotted rgb(235, 13, 79);
+}
+
+#George {
+    border: 10cm solid rgb(109, 93, 40);
+}
+
+#fabfour {
+    border: 10mm solid #fcf7f7;
+}
+
+/* html {
+    font-size: 14pt;
+    background-color: bisque;
+}
+
+#logo {
+    height: 100px;
+}
+
+.comedianPhoto {
+    height: 450px;
+}
+
+#copyrightStatement {
+    font-style: italic;
+    font-size: 12px;
+}
+
+main>img {
+    height: 850px;
+    margin: 70px 50px;
+}
+
+h2 {
+    border: 5px groove aquamarine;
+    /* border-right: 1in solid black; */
+/* padding: 10px; 
+    width: 1000px;
+    box-sizing: border-box;
+}
+
+span {
+    display: block;
+}
+
+body>div,
+span {
+    /* This is a division to 7 elements vertically */
+/* height: 14.28571428571429vh; 
+    border: 5px solid black;
+    margin-top: -5px;
+    box-sizing: border-box;
+}
+
+/* div>div { 
+    margin: 0px;
+    border: 2px crimson dashed;
+    display: inline-block;
+    width: 33.33%;
+    box-sizing: border-box;
+
+}
+
+
+
+#one {
+    background-color: aqua;
+    width: 10in;
+    font-size: 1.5rem;
+}
+
+body {
+    font-size: 30pt;
+}
+
+#two {
+    background-color: blue;
+    width: 10cm;
+    color: white;
+    font-size: 1.5em;
+}
+
+#three {
+    background-color: blueviolet;
+    width: 10pc;
+}
+
+#four {
+    background-color: brown;
+    width: 10mm;
+}
+
+#five {
+    background-color: darkgreen;
+    width: 10pt;
+
+}
+
+#six {
+    background-color: gold;
+    width: 10px;
+} */
